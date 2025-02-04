@@ -1,0 +1,13 @@
+Disease,Winter ,Spring,Summer,Autumn,Total
+Whooping cough,2,2,9,4,17
+Tetanus,0,1,0,5,6
+Poliomyelitis,0,0,0,0,0
+Measles,56,17,87,87,247
+Mumps,30,17,22,32,101
+Rubella,18,12,25,30,85
+Chickenpox,208,178,478,593,"1,457"
+Brucellosis,434,606,831,672,"2,543"
+Amoebic dysentery,179,120,302,363,964
+Bacillary dysentery (Shigellosis),5,1,10,9,25
+Salmonella,132,118,631,562,"1,443"
+Dengue fever,"1,452",761,698,736,"3,647"

@@ -1,0 +1,12 @@
+disease,<1,1 - < 5,5 - < 15,15 - < 45,≥ 45,Unknown,Total
+Whooping cough,15,2,0,0,0,0,17
+Tetanus,0,0,0,4,2,0,6
+Measles,49,88,40,68,2,0,247
+Mumps,3,65,26,6,1,0,101
+Rubella,13,33,11,27,1,0,85
+Chickenpox,79,129,230,936,83,0,"1,457"
+Brucellosis,0,66,233,"1,451",793,0,"2,543"
+Amoebic dysentery,35,85,115,588,141,0,964
+Bacillary dysentery (Shigellosis),2,4,4,4,11,0,25
+Salmonella,218,370,258,350,247,0,"1,443"
+Dengue fever,2,27,103,"2,728",787,0,"3,647"

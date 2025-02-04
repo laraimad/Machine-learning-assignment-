@@ -1,0 +1,7 @@
+HealthRegion,Whooping cough,Tetanus,Measles,Mumps,Rubella,Chickenpox,Brucellosis,Amoebic dysentery,Bacillary dysentery (Shigellosis),Salmonella,Denguefever
+Central Region,5,0,50,13,17,231,492,67,2,295,115
+Western Region,2,1,99,23,28,416,693,94,17,642,"3,125"
+Eastern Region,7,2,35,27,11,517,161,687,4,406,0
+Southern Region ,3,2,26,21,7,144,569,21,1,66,407
+Northern Region,0,1,37,17,22,149,617,116,2,34,0
+Total,17,5,210,84,63,"1,308","1,915",869,24,"1,409","3,647"

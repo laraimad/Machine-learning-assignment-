@@ -1,0 +1,6 @@
+HealthRegion,No.Examined,PositiveCases,SlidePositivity(%),P.falciparum(Malignant),P. vivax and Povale (Benign Tertiary),P. malariae (Benign Quartan),Mixed,Introdused,Imported
+Central Region ,"20,324",172,0.85,86,80,3,3,0,172
+Westren Region ,"175,569",761,8.65,394,328,11,28,0,761
+Eastren Region ,"221,027",322,7.68,172,148,2,0,0,322
+Southren Region ,"223,311",2951,3.84,2383,555,5,8,274,2677
+Northren Region ,"124,591",113,7.32,44,68,1,0,0,108
